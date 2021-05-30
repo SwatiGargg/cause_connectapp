@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CauseConnect</string>
+    <string name="sign_in">LogIn</string>
+    <string name="email">Enter your Email-Id</string>
+    <string name="pwd">Password</string>
+    <string name="newuser">Register</string>
+</resources>
